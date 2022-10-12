@@ -1,0 +1,16 @@
+var Reporth="|                   𝕽𝖊𝖕𝖔𝖗𝖙 𝕮𝖆𝖗𝖉                    |";
+var nameh="| 𝑺𝒕𝒖𝒅𝒆𝒏𝒕❜𝒔 𝑵𝒂𝒎𝒆: 𝑇𝑎𝑛𝑚𝑜𝑦 𝑅𝑜𝑦|  𝑺𝒖𝒃𝒋𝒆𝒄𝒕𝒔    | 𝘎𝘳𝘢𝘥𝘦 |";
+var rollh="| 𝑹𝒐𝒍𝒍 𝑵𝒐       : 𝚏𝚠𝟸𝟹_𝟶𝟷𝟻𝟷 |  Physics     |  B+   |";
+var secth="| 𝑺𝒆𝒄𝒕𝒊𝒐𝒏       : WEB23     |  Chemistry   |  A    |";
+var math="|                           |  Math        |  B+   |";
+var Schoolh="|            𝕏𝕐ℤ 𝕙𝕚𝕘𝕙𝕖𝕣 𝕤𝕖𝕔𝕠𝕟𝕕𝕒𝕣𝕪 𝕊𝕔𝕙𝕠𝕠𝕝           |";
+var border="  -------------------------------------------------";
+var Endborder="  -------------------------------------------------";
+console.log(border);
+console.log(Schoolh);
+console.log(Reporth);
+console.log(nameh);
+console.log(rollh);
+console.log(secth);
+console.log(math);
+console.log(Endborder);
